@@ -82,7 +82,7 @@
 - [HashiCorp Certified: Terraform Associate](https://github.com/BuNnYWaJ/Hashicorp-Terraform-Associate-Certified)
 - [Terraform Cloud Demo](https://github.com/BuNnYWaJ/terraform-cloud-demo1)
 - [Terraform Private Module Registry](https://github.com/BuNnYWaJ/terraform-aws-s3-website)
-- [Terraform Sentinel Policies](https://github.com/BuNnYWaJ/terraform-sentinel-policies)
+- [Terraform Sentinel Policies](https://github.com/BuNnYWaJ/Terraform-Sentinel-Policies)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
 
